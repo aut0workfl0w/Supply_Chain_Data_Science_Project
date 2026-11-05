@@ -1,5 +1,7 @@
-# Supply_Chain_Data_Science_Project
+# Loan Dataset
 
+The public dataset chosen for this Data Science Project is a Loans Dataset from kaggle:
+https://www.kaggle.com/datasets/itssuru/loan-data
 
 
 To start off the data will need to go through the process of ETL so it becomes prepared for analysis. The first step in ETL is Extract which involves pulling data from a variety of data sources and may be in various forms such as structured (databases), semi-structured (JSON) or unstructured (emails) data. In this scenario, the public dataset from Kaggle is in CSV format and has been saved locally.
